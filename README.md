@@ -1,2 +1,1 @@
-# electron-notifications
-sample electron notifications 
+# app-icon-consolidate
